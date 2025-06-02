@@ -1,4 +1,6 @@
-markdown# 👋 Привіт, я Іра! / Hi, I'm Ira!
+markdown# 
+
+👋 Привіт, я Іра! / Hi, I'm Ira!
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=600&lines=%F0%9F%9A%80+Full-Stack+Developer;%F0%9F%8C%9F+JavaScript+%7C+React+%7C+Node.js;%F0%9F%92%AB+Passionate+about+Web+Development" alt="Typing SVG" />
