@@ -74,22 +74,35 @@ I'm an aspiring full-stack web developer with a great passion for creating moder
 
 ## 🌱 Зараз вивчаю / Currently Learning
 
+**🇺🇦 Українською:**
 - 📘 Поглиблення знань TypeScript
 - 🐳 Docker для контейнеризації додатків
 - 🗄️ PostgreSQL як альтернатива MongoDB
-- 🎨 Advanced CSS та анімації
-- 🧪 Тестування (Jest, React Testing Library)
 - 💼 Створення власного портфоліо сайту
+
+**🇬🇧 In English:**
+- 📘 Deepening your knowledge of TypeScript
+- 🐳 Docker for application containerization
+- 🗄️ PostgreSQL as an alternative to MongoDB
+- 💼 Creating your own portfolio website
 
 ---
 
 ## 💡 Цікаві факти / Fun Facts
 
+**🇺🇦 Українською:**
 - 🌟 Завершила інтенсивний курс веб-розробки за рекордний час
 - 🎨 Люблю створювати красиві та функціональні UI/UX дизайни
 - 🔍 Завжди шукаю нові способи оптимізації коду
-- 🌍 Прагну створювати додатки, які вирішують реальні проблеми
+- 🌍 Прагну створювати веб-додатки, які вирішують реальні проблеми
 - ☕ Програмую найкраще з чашкою гарячого чаю
+
+**🇬🇧 In English:**
+- 🌟 Completed an intensive web development course in record time
+- 🎨 I love creating beautiful and functional UI/UX designs
+- 🔍 Always looking for new ways to optimize code
+- 🌍 I strive to create web applications that solve real problems
+- ☕ I program best with a cup of hot tea
 
 ---
 
@@ -98,6 +111,7 @@ I'm an aspiring full-stack web developer with a great passion for creating moder
 <div align="center">
   
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Irina_P_23)
+[![Phone](https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+380508222342)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:panasykira2022@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-🚧_In_Development-FFA500?style=for-the-badge&logo=firefox&logoColor=white)](#)
 
