@@ -114,7 +114,7 @@ I'm an aspiring full-stack web developer with a great passion for creating moder
 <div align="center">
   
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Irina_P_23)
-[![Viber: +380508222342](https://img.shields.io/badge/Viber:_+380508222342-8B66A9?style=for-the-badge&logo=viber&logoColor=white)](#)
+[![Viber](https://img.shields.io/badge/Viber:_+380508222342-8B66A9?style=for-the-badge&logo=viber&logoColor=white)](+380508222342)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:panasykira2022@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-🚧_In_Development-FFA500?style=for-the-badge&logo=firefox&logoColor=white)](#)
 
