@@ -1,6 +1,6 @@
 <!-- markdown# -->
 
-👋 Привіт, я Іра! / Hi, I'm Ira!
+# 👋 Привіт, я Іра! / Hi, I'm Ira!
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=600&lines=%F0%9F%9A%80+Full-Stack+Developer;%F0%9F%8C%9F+JavaScript+%7C+React+%7C+Node.js;%F0%9F%92%AB+Passionate+about+Web+Development" alt="Typing SVG" />
@@ -10,10 +10,10 @@
 
 ## 🌟 Про мене / About Me
 
-**Українською:**
+**🇺🇦 Українською:**
 Я починаючий фулстек веб-розробник з великою пристрастю до створення сучасних веб-додатків. Нещодавно завершила інтенсивні курси з веб-розробки і готова застосовувати свої знання в реальних проектах. Люблю вивчати нові технології та створювати інтуїтивні користувацькі інтерфейси.
 
-**English:**
+**🇺🇸 English:**
 I'm an aspiring full-stack web developer with a great passion for creating modern web applications. Recently completed intensive web development courses and ready to apply my knowledge to real-world projects. I love learning new technologies and creating intuitive user interfaces.
 
 ---
@@ -59,14 +59,14 @@ I'm an aspiring full-stack web developer with a great passion for creating moder
 
 ## 🎯 Мої цілі / My Goals
 
-**Українською:**
+**🇺🇦 Українською:**
 - 🚀 Розробити перший комерційний проект
 - 📚 Поглибити знання TypeScript та поширити навички в React екосистемі
 - 🌐 Вивчити додаткові backend технології (PostgreSQL, Docker)
 - 🤝 Знайти можливості для співпраці з досвідченими розробниками
 - 💼 Отримати першу роботу в IT сфері
 
-**English:**
+**🇺🇸 English:**
 - 🚀 Develop my first commercial project
 - 📚 Deepen TypeScript knowledge and expand React ecosystem skills
 - 🌐 Learn additional backend technologies (PostgreSQL, Docker)
@@ -77,13 +77,13 @@ I'm an aspiring full-stack web developer with a great passion for creating moder
 
 ## 🌱 Зараз вивчаю / Currently Learning
 
-**Українською:**
+**🇺🇦 Українською:**
 - 📘 Поглиблення знань TypeScript
 - 🐳 Docker для контейнеризації додатків
 - 🗄️ PostgreSQL як альтернатива MongoDB
 - 💼 Створення власного портфоліо сайту
 
-**English:**
+**🇺🇸 English:**
 - 📘 Deepening your knowledge of TypeScript
 - 🐳 Docker for application containerization
 - 🗄️ PostgreSQL as an alternative to MongoDB
@@ -93,14 +93,14 @@ I'm an aspiring full-stack web developer with a great passion for creating moder
 
 ## 💡 Цікаві факти / Fun Facts
 
-**Українською:**
+**🇺🇦 Українською:**
 - 🌟 Завершила інтенсивний курс веб-розробки за рекордний час
 - 🎨 Люблю створювати красиві та функціональні UI/UX дизайни
 - 🔍 Завжди шукаю нові способи оптимізації коду
 - 🌍 Прагну створювати веб-додатки, які вирішують реальні проблеми
 - ☕ Програмую найкраще з чашкою гарячого чаю
 
-**English:**
+**🇺🇸 English:**
 - 🌟 Completed an intensive web development course in record time
 - 🎨 I love creating beautiful and functional UI/UX designs
 - 🔍 Always looking for new ways to optimize code
