@@ -1,5 +1,3 @@
-<!-- markdown# -->
-
 👋 Привіт, я Іра! / Hi, I'm Ira!
 
 <div align="center">
@@ -10,10 +8,10 @@
 
 ## 🌟 Про мене / About Me
 
-**🇺🇦 Українською:**
+**Українською:**
 Я починаючий фулстек веб-розробник з великою пристрастю до створення сучасних веб-додатків. Нещодавно завершила інтенсивні курси з веб-розробки і готова застосовувати свої знання в реальних проектах. Люблю вивчати нові технології та створювати інтуїтивні користувацькі інтерфейси.
 
-**🇬🇧 In English:**
+**English:**
 I'm an aspiring full-stack web developer with a great passion for creating modern web applications. Recently completed intensive web development courses and ready to apply my knowledge to real-world projects. I love learning new technologies and creating intuitive user interfaces.
 
 ---
@@ -34,6 +32,7 @@ I'm an aspiring full-stack web developer with a great passion for creating moder
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=white)
 
 ### 🔧 Інструменти / Tools
 ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=firebase&logoColor=white)
@@ -58,14 +57,14 @@ I'm an aspiring full-stack web developer with a great passion for creating moder
 
 ## 🎯 Мої цілі / My Goals
 
-**🇺🇦 Українською:**
+**Українською:**
 - 🚀 Розробити перший комерційний проект
 - 📚 Поглибити знання TypeScript та поширити навички в React екосистемі
 - 🌐 Вивчити додаткові backend технології (PostgreSQL, Docker)
 - 🤝 Знайти можливості для співпраці з досвідченими розробниками
 - 💼 Отримати першу роботу в IT сфері
 
-**🇬🇧 In English:**
+**English:**
 - 🚀 Develop my first commercial project
 - 📚 Deepen TypeScript knowledge and expand React ecosystem skills
 - 🌐 Learn additional backend technologies (PostgreSQL, Docker)
@@ -76,13 +75,13 @@ I'm an aspiring full-stack web developer with a great passion for creating moder
 
 ## 🌱 Зараз вивчаю / Currently Learning
 
-**🇺🇦 Українською:**
+**Українською:**
 - 📘 Поглиблення знань TypeScript
 - 🐳 Docker для контейнеризації додатків
 - 🗄️ PostgreSQL як альтернатива MongoDB
 - 💼 Створення власного портфоліо сайту
 
-**🇬🇧 In English:**
+**English:**
 - 📘 Deepening your knowledge of TypeScript
 - 🐳 Docker for application containerization
 - 🗄️ PostgreSQL as an alternative to MongoDB
@@ -92,14 +91,14 @@ I'm an aspiring full-stack web developer with a great passion for creating moder
 
 ## 💡 Цікаві факти / Fun Facts
 
-**🇺🇦 Українською:**
+**Українською:**
 - 🌟 Завершила інтенсивний курс веб-розробки за рекордний час
 - 🎨 Люблю створювати красиві та функціональні UI/UX дизайни
 - 🔍 Завжди шукаю нові способи оптимізації коду
 - 🌍 Прагну створювати веб-додатки, які вирішують реальні проблеми
 - ☕ Програмую найкраще з чашкою гарячого чаю
 
-**🇬🇧 In English:**
+**English:**
 - 🌟 Completed an intensive web development course in record time
 - 🎨 I love creating beautiful and functional UI/UX designs
 - 🔍 Always looking for new ways to optimize code
@@ -113,10 +112,10 @@ I'm an aspiring full-stack web developer with a great passion for creating moder
 <div align="center">
   
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Irina_P_23)
-[![Phone](https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+380508222342)
+[![Phone: +380508222342](https://img.shields.io/badge/Phone:_+380508222342-25D366?style=for-the-badge&logo=phone&logoColor=white)](#)
+[![Viber](https://img.shields.io/badge/Viber-8B66A9?style=for-the-badge&logo=viber&logoColor=white)](viber://chat?number=+380508222342)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:panasykira2022@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-🚧_In_Development-FFA500?style=for-the-badge&logo=firefox&logoColor=white)](#)
-
 </div>
 
 ---
