@@ -36,7 +36,7 @@ I'm an aspiring full-stack web developer with a great passion for creating moder
 ### 🗄 Бази даних / Databases
 <a href="https://www.mongodb.com/docs/" target="_blank">![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)</a>
 <a href="https://mongoosejs.com/docs/" target="_blank">![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white)</a>
-<a href="https://firebase.google.com/docs" target="_blank">![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=firebase&logoColor=white)</a> (Firestore/Realtime Database)
+<a href="https://firebase.google.com/docs" target="_blank">![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=firebase&logoColor=white)</a>
 
 ### 🔧 Інструменти / Tools
 <a href="https://restfulapi.net/" target="_blank">![REST API](https://img.shields.io/badge/REST_API-00599C?style=for-the-badge&logo=rest&logoColor=white)</a>
