@@ -25,22 +25,27 @@ I'm an aspiring full-stack web developer with a great passion for creating moder
 <a href="https://redux.js.org/" target="_blank">![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)</a>
 <a href="https://www.typescriptlang.org/docs/" target="_blank">![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)</a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)</a>
+<a href="https://sass-lang.com/" target="_blank">![SASS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)</a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)</a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)</a>
 
 ### ⚙️ Backend
 <a href="https://nodejs.org/docs/" target="_blank">![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)</a>
 <a href="https://expressjs.com/" target="_blank">![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)</a>
+
+### 🗄 Бази даних / Databases
 <a href="https://www.mongodb.com/docs/" target="_blank">![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)</a>
 <a href="https://mongoosejs.com/docs/" target="_blank">![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white)</a>
-<a href="https://swagger.io/docs/" target="_blank">![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=white)</a>
+<a href="https://firebase.google.com/docs" target="_blank">![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=firebase&logoColor=white)</a> (Firestore/Realtime Database)
 
 ### 🔧 Інструменти / Tools
-<a href="https://vitejs.dev/" target="_blank">![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)</a>
-<a href="https://firebase.google.com/docs" target="_blank">![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=firebase&logoColor=white)</a>
+<a href="https://restfulapi.net/" target="_blank">![REST API](https://img.shields.io/badge/REST_API-00599C?style=for-the-badge&logo=rest&logoColor=white)</a>
 <a href="https://git-scm.com/doc" target="_blank">![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)</a>
-<a href="https://learning.postman.com/docs/" target="_blank">![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)</a>
 <a href="https://docs.github.com/" target="_blank">![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)</a>
+<a href="https://vitejs.dev/" target="_blank">![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)</a>
+<a href="https://learning.postman.com/docs/" target="_blank">![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)</a>
+<a href="https://code.visualstudio.com/docs" target="_blank">![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)</a>
+<a href="https://swagger.io/docs/" target="_blank">![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=white)</a>
 
 ---
 
@@ -116,7 +121,7 @@ I'm an aspiring full-stack web developer with a great passion for creating moder
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Irina_P_23)
 [![Viber](https://img.shields.io/badge/Viber-chat-8C52EE?style=for-the-badge&logo=viber&logoColor=white&label=Viber)](viber://chat?number=+380508222342)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:panasykira2022@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-🚧_In_Development-FFA500?style=for-the-badge&logo=firefox&logoColor=white)](#)
+[![Portfolio](https://img.shields.io/badge/Portfolio-ira--panasiuk--2024.github.io-007ACC?style=for-the-badge&logo=github&logoColor=white)](https://ira-panasiuk-2024.github.io/PORTFOLIO/)
 
 </div>
 
